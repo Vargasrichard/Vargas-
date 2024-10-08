@@ -1,0 +1,66 @@
+.title{
+    font-size: 60px;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+    
+}
+body{
+    background-color: orange;
+}
+.num1{
+    margin: 5px;
+    font-size: 28px;
+    text-align: center;
+}
+.box{
+    padding: 5px;
+}
+.boxx{
+    padding: 5px;
+}
+.num2{
+    margin: 5px;
+    font-size: 28px;
+    text-align: center;
+}
+.ope{
+    margin: 5px;
+    font-size: 28px;
+ margin-left: 520px;
+ margin-top: 300px;
+}
+.boxxx{
+    padding: 5px;
+}
+.cal{
+    margin: 5px;
+    font-size: 28px;
+    margin-left: 520px;
+    margin-top: 30px;
+    color: rgb(3, 3, 3);
+    background-color: rgb(248, 243, 243);
+    border-color: rgb(5, 9, 12);
+    border-radius: 20px;
+    padding: 5px;
+}
+.cal:hover{
+    background-color: gray;
+}
+.result{
+    margin: 5px;
+    font-size: 28px;
+ margin-left: 700px;
+ margin-top: 20px;  
+}
+.buttonn{
+   font-size: 30px;
+   border: solid;
+   text-decoration: none;
+   border-color: black;
+   color: black;
+   background-color: orangered;
+}
